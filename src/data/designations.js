@@ -1,0 +1,17 @@
+export const designations = [
+  'Secretary-General',
+  'Deputy Secretary-General',
+  'Director-General',
+  'Under-Secretary-General for Committees',
+  'Under-Secretary-General for Delegate Affairs',
+  'Under-Secretary-General for External Relations',
+  'Logistics Head',
+  'Media & Publications Head',
+  'Delegate Affairs Officer',
+  'IT & Operations Officer',
+  'Finance Officer',
+  'Rapporteur',
+  'Crisis Director',
+  'Committee Chair',
+  'Committee Director',
+]
