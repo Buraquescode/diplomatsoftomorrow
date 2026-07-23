@@ -79,7 +79,7 @@ function Hero() {
         >
           <div className="relative rounded-3xl border border-gold/20 bg-white/5 backdrop-blur-md p-2 shadow-2xl shadow-black/40">
             <img
-              src="https://i.pinimg.com/1200x/22/19/11/221911e521f752260dfa32c2665c7258.jpg"
+              src="https://i.pinimg.com/736x/06/ee/ec/06eeec82850b17bb073a5b5fad2b1524.jpg"
               alt="DOT delegates in committee session"
               className="rounded-2xl w-full h-[460px] object-cover"
             />
