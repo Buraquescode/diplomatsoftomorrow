@@ -6,7 +6,7 @@ export const events = {
       image: '/Images/1.jpg',
     },
     {
-      title: 'DOTMUN : Delegate Night Session',
+      title: 'DOTMUN : UNWOMEN COMMITTEE',
       location: 'Hyderabad',
       image: '/Images/4.jpg',
     },
@@ -16,7 +16,7 @@ export const events = {
       image: '/Images/3.jpg',
     },
     {
-      title: 'DOTMUN : Team Moment',
+      title: 'DOTMUN : HYDERABAD Delegates',
       location: 'Hyderabad',
       image: '/Images/6.jpeg',
     },
